@@ -1,3 +1,4 @@
+# Jaykumar Sankpal
 from  time import  sleep
 import turtle
 from threading import *
@@ -7,7 +8,6 @@ from threading import *
 from playsound import playsound
 
 #playsound('file://C:/Users/Jaykumar/Desktop/Cg/project/The-Avengers-Theme-Song.mp3')
-#playsound('file://C:/Users/ASUS/Downloads/The-Avengers-Theme-Song.mp3')
 class draw(Thread):
     def run(self):
         # Top Part
